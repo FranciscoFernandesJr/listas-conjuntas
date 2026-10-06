@@ -45,7 +45,7 @@ Este projeto foi desenvolvido para praticar conceitos de desenvolvimento web, pr
 
 ## ✒️ Autor
 
-<img src="https://github.com/Zuninho-dev.png" width="100">
+<img src="https://github.com/FranciscoFernandesJr.png" width="100">
 
 **Francisco Junior**  
 Estudante de Engenharia da Computação.
